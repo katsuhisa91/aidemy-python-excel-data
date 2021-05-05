@@ -6,7 +6,7 @@ sheet = wb['売上データ']
 branch_list = list(sheet.columns)[2]
 sales_per_customer = {}
 
-# A支店の
+# A支店の顧客別売上を集計する
 for i, cell in enumerate(branch_list):
     if cell.value == "A支店":
         if sheet.cell(row=i + 1, column=2).value in sales_per_customer.keys():
