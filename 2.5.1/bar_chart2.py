@@ -1,5 +1,5 @@
 import openpyxl
-from openpyxl.chart import BarChart, Reference, Series
+from openpyxl.chart import BarChart, Reference
 
 wb = openpyxl.load_workbook('四半期別売上報告書.xlsx')
 ws = wb['支店別売上サマリ']
