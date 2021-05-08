@@ -5,7 +5,7 @@
 大まかに行っていただく作業としては、以下です。
 
 1.  [PyCharm](https://www.jetbrains.com/ja-jp/pycharm/download) のダウンロードおよびインストール（無料のコミュニティ版で問題ありません。）
-2. （必要であれば）PyCharmの [日本語化プラグイン](https://mergedoc.osdn.jp/#pleiades.html#PLUGIN) のダウンロードおよびインストール
+2. （必要であれば）PyCharmの [日本語化](https://pleiades.io/pages/pleiades_jetbrains_manual.html) を行う
 3. 「 [新規プロジェクト](https://pleiades.io/help/pycharm/creating-and-running-your-first-python-project.html) 」を作成する
 4. 「 [インタープリターの追加](https://pleiades.io/help/pycharm/configuring-local-python-interpreters.html) 」から、  [「Virtualenv Environment」で「新しい環境」を作成](https://pleiades.io/help/pycharm/creating-virtual-environment.html) [1] する
 
